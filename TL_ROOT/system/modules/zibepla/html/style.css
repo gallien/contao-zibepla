@@ -1,0 +1,70 @@
+.cal {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 8pt;
+    color: #000000;
+    text-align: center;
+    border: 0 none; 
+    padding: 14px 0px 1px 0px;
+}
+.cal .table { 
+    margin: 0px 20px 20px 0px; 
+    padding: 1px; 
+    border: 0 none; 
+    line-height: 100%;
+}
+table.cal tr td {
+    border: 0 none; 
+}
+.cal .table td {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #cccccc;
+    border-right: 1px solid #cccccc;
+}
+.cal .table left.td {
+    float: left;
+}
+.cal .month { 
+    height: 20px;
+    font-size: 8pt; 
+    font-weight: bold; 
+    text-align: center; 
+    background-color: #ffffff;
+    border-top: 1px solid #cccccc; 
+    border-left: 1px solid #cccccc; 
+}
+.cal .cw { background-color: #eeeeee; font-size: 8pt; font-weight: bold; text-align: center; border-left: 1px solid #cccccc; }
+.cal .left { float: none; border-left: 1px solid #dddddd; }
+.cal .day {
+    height: 20px;
+    color: #000000; 
+    background-color: #eeeeee; 
+    font-size: 8pt; 
+    font-weight: bold; 
+    text-align: center; 
+    border-left: 1px solid #cccccc; 
+}
+.cal .week { background-color: #eeeeee; font-size: 7pt; text-align: center; }
+.cal tr.basic td { width: 20px; height: 20px; font-size: 7pt; text-align: center; }
+.cal tr.login td { width: 20px; height: 34px; font-size: 7pt; text-align: center; }
+.cal .n { background-color: #ffffff; }
+.cal .o { background-color: #f0cfcf; }
+.cal .basic .of { background-color: #f0cfcf; background: url(cal_of.gif) no-repeat; }
+.cal .login .of { background-color: #f0cfcf; background: url(cal_l_of.gif) no-repeat; }
+.cal .basic .or { background-color: #f0cfcf; background: url(cal_or.gif) no-repeat; }
+.cal .login .or { background-color: #f0cfcf; background: url(cal_l_or.gif) no-repeat; }
+.cal .f { background-color: #7dd07d; }
+.cal .basic .fo { background-color: #7dd07d; background: url(cal_fo.gif) no-repeat;}
+.cal .login .fo { background-color: #7dd07d; background: url(cal_l_fo.gif) no-repeat;}
+.cal .basic .fr { background-color: #7dd07d; background: url(cal_fr.gif) no-repeat;}
+.cal .login .fr { background-color: #7dd07d; background: url(cal_l_fr.gif) no-repeat;}
+.cal .r { background-color: #f2e2c2; }
+.cal .basic .rf { background-color: #f2e2c2; background: url(cal_rf.gif) no-repeat;}
+.cal .login .rf { background-color: #f2e2c2; background: url(cal_l_rf.gif) no-repeat;}
+.cal .basic .ro { background-color: #f2e2c2; background: url(cal_ro.gif) no-repeat;}
+.cal .login .ro { background-color: #f2e2c2; background: url(cal_l_ro.gif) no-repeat;}
+.cal .u { background-color: #f2e2c2; }
+
+#zibepla_copyright {
+    text-align: center;
+}

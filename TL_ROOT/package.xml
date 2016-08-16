@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE contaopackage>
+<extension name="zibepla" date="20130123">
+    <author user="gallien" name="Andreas Gallien" website="http://www.zibepla.com" />
+    <copyright>&amp;copy; 2010-2012 Andreas Gallien</copyright>
+    <license>Creative Commons (CC-by-nd)</license>
+    <classification type="free" category="application" />
+    <release version="10020019" build="8" date="20120315" />
+    <contao minversion="20070039" maxversion="20110029" />
+    <language code="en">
+        <translator user="gallien" name="Andreas Gallien" website="http://www.zibepla.com" />
+        <searchtags>Availability,Availability Calendar,Calendar</searchtags>
+        <title>Availability Calendar</title>
+        <teaser>Show the availability of cottages, hotels or whatever you need it with an calendar for on your website.</teaser>
+        <releasenotes>&lt;p&gt;Add[nbsp]Dutch translation&lt;/p&gt;</releasenotes>
+        <manual link="http://www.zibepla.com/zibepla-contao.php" />
+        <forum link="http://www.contao-community.de/showthread.php?11794-zibepla-Belegungsplan" />
+        <shop link="http://www.zibepla.com/zibepla-contao.php" />
+    </language>
+    <language code="de">
+        <translator user="gallien" name="Andreas Gallien" website="http://www.zibepla.com" />
+        <searchtags>Belegung,Belegungskalender,Belegungsplan,Verfügbarkeitskalender,Kalender</searchtags>
+        <title>Belegungsplan</title>
+        <teaser>Nutzen von beliebig vielen Belegungsplänen auf der Website.</teaser>
+        <description>&lt;p&gt;Das Modul erlaubt die Verwaltung einer beliebigen Anzahl von Belegungskalendern, z. B. f&amp;uuml;r Ferienunterk&amp;uuml;nfte, Hotels oder Appartments. Diese k&amp;ouml;nnen &amp;uuml;ber das Backend gepflegt werden und lassen sich per Inhaltselement direkt in Artikel integrieren. Es ist f&amp;uuml;r die einfache Verwaltung von Tag-basierten Belegungen jeder Art geeignet.&lt;/p&gt;</description>
+        <releasenotes>&lt;p&gt;Add Dutch translation&lt;/p&gt;</releasenotes>
+        <manual link="http://www.zibepla.com/zibepla-contao.php" />
+        <forum link="http://www.contao-community.de/showthread.php?11794-zibepla-Belegungsplan" />
+        <shop link="http://www.zibepla.com/zibepla-contao.php" />
+    </language>
+    <language code="nl">
+        <translator user="jroelev6" name="Jane Roeleveld" />
+        <searchtags>Beschikbaarheid,Beschikbaarheidskalender,Kalender,Availability Calendar</searchtags>
+        <title>Beschikbaarheidskalender</title>
+        <teaser>Een kalender op uw website laat de beschikbaarheid van uw vakantiehuis of hotel zien.</teaser>
+        <releasenotes>&lt;p&gt;Add Dutch translation&lt;/p&gt;</releasenotes>
+        <manual link="http://www.zibepla.com/zibepla-contao.php" />
+        <forum link="http://www.contao-community.de/showthread.php?11794-zibepla-Belegungsplan" />
+        <shop link="http://www.zibepla.com/zibepla-contao.php" />
+    </language>
+</extension>
